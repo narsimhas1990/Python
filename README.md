@@ -50,7 +50,7 @@ These are **read-only** versions. However you can **`Run ▶`**  all the codes *
 020_Road_Detection
 ---
 
-## Frequently asked questions ❔
+## Frequently asked questionshhh ❔
 
 ### How can I thank you for writing and sharing this tutorial? 🌷
 
